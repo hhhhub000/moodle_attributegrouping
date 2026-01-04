@@ -29,3 +29,5 @@ $string['field_options'] = 'Field Options (One per line)';
 $string['major_options'] = 'Major Options (One per line)';
 $string['yes'] = 'Yes';
 $string['no'] = 'No';
+$string['export_csv'] = 'Export CSV';
+$string['group_number'] = 'Group Number';

@@ -15,7 +15,7 @@ defined('MOODLE_INTERNAL') || die();
  * @param int $oldversion The version we are upgrading from.
  * @return bool Success.
  */
-function xmldb_mod_attributegrouping_upgrade($oldversion)
+function xmldb_attributegrouping_upgrade($oldversion)
 {
     global $DB;
 

@@ -29,3 +29,5 @@ $string['field_options'] = '分野の選択肢（1行に1つ）';
 $string['major_options'] = '専攻科の選択肢（1行に1つ）';
 $string['yes'] = 'はい';
 $string['no'] = 'いいえ';
+$string['export_csv'] = 'CSVエクスポート';
+$string['group_number'] = 'グループ番号';
